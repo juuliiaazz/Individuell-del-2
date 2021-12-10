@@ -1,24 +1,24 @@
 {
-  "name": "forum",
+  "name": "individuell-del-2",
   "version": "1.0.0",
-  "description": "gästbok, forum, javascript",
+  "description": "individuell del 2 forum",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juuliiaazz/Individuell-del2.git"
+    "url": "git+https://github.com/juuliiaazz/Individuell-del-2.git"
   },
+  "keywords": [
+    "javascript",
+    "forum",
+    "gästbok"
+  ],
   "author": "Julia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juuliiaazz/Individuell-del2/issues"
+    "url": "https://github.com/juuliiaazz/Individuell-del-2/issues"
   },
-  "homepage": "https://github.com/juuliiaazz/Individuell-del2#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "jquery": "^3.6.0",
-    "nodemon": "^2.0.15"
-  }
+  "homepage": "https://github.com/juuliiaazz/Individuell-del-2#readme"
 }
