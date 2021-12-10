@@ -48,7 +48,16 @@ app.get("/hamta-data", (req, res) => {
           email: req.body.email
         };
 
-    });
+   
+    json.push(newPost);
+     
+   
+     fs.writeFile("meddelanden.json", JSON.stringify(json), function(err){
+       if (err) throw err;
+       
+     });
+    
+            res.send(data.toString());
+   });
+ });
 });
-
-  
