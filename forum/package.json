@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/juuliiaazz/Individuell-del-2/issues"
   },
-  "homepage": "https://github.com/juuliiaazz/Individuell-del-2#readme"
+  "homepage": "https://github.com/juuliiaazz/Individuell-del-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {}
 }
+
