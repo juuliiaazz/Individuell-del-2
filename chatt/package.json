@@ -1,0 +1,31 @@
+{
+  "name": "chatt",
+  "version": "1.0.0",
+  "description": "Individuell uppgift 2 chatt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juuliiaazz/Individuell-del-2.git"
+  },
+  "keywords": [
+    "chatt",
+    "javascript",
+    "socket.io"
+  ],
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juuliiaazz/Individuell-del-2/issues"
+  },
+  "homepage": "https://github.com/juuliiaazz/Individuell-del-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^14.0.0",
+    "nodemon": "^2.0.15",
+    "socket.io": "^2.0.1"
+  }
+}
